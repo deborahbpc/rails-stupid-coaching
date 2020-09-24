@@ -1,0 +1,22 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.container{
+    background-color: rgb(218, 212, 212);
+    display: flex;
+    width: 500px;
+    flex-direction: column;
+}
+
+#user, #coach {
+    margin: auto;
+    background-color: white;
+    align-items: flex-start;
+}
+#user {
+    
+}
+
+#coach {
+    background-color: rgb(240, 240, 157);
+}
